@@ -1,6 +1,7 @@
 /bin
 .vscode
-
+/**/**/**.class
 /**/**/*.class
+
 
 /**/file*.txt
